@@ -1,1 +1,1 @@
-"# ROP-Emporium-2020-writeup" 
+# Solutions to all x64 ROP Emporium challenges - July 2020
